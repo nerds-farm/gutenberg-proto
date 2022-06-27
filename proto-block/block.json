@@ -1,0 +1,19 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/block.json",
+    "apiVersion": 2,
+    "name": "nerds-farm/proto-block",
+    "slug": "proto-block",
+    "version": "0.1.0",
+    "title": "Guten Proto",
+    "author": "Nerds Farm",
+    "license": "GPLv3",
+    "category": "text",
+    "icon": "smiley",
+    "description": "A proto Gutenberg plugin",
+    "textdomain": "gproto",
+    "folderName": "src",
+    "editorScript": "file:./index.js",
+    "editorStyle": "file:./editor.css",
+    "style": "file:./front.css",
+    "dependencies": {}
+}
